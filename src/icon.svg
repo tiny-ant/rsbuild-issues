@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M14,31.939972 C14,31.939972 56.4627779,48.4507832 76.3453365,14.8810131 C80.1681561,7.26355893 87.4362593,18.6271526 78.6212882,18.6271526 C69.8063171,18.6271526 65.1474729,10.9348794 72.6397911,3.91651348 C80.1321094,-3.10185246 110.839965,2.68929451 111.374477,6.64983824 C111.908989,10.610382 109.131543,9.79059663 107.190557,11.587299 C105.249572,13.3840014 104.745458,18.0352203 131.279582,16.5710729" id="Path-4" stroke="#D6D6D6" stroke-dasharray="1"></path>
+  <circle id="Oval-5" stroke="#1B74FC" cx="136.5" cy="14.5" r="3.5"></circle>
+  <circle id="Oval-5-Copy" stroke="#1B74FC" cx="21.5" cy="96.5" r="2.5"></circle>
+  <path d="M3,50 L9,50" id="Line-2-Copy-7" stroke="#1B74FC" stroke-linecap="round"></path>
+  <path d="M137,78 L143,78" id="Line-2-Copy-11" stroke="#BFBFBF" stroke-linecap="round"></path>
+  <path d="M6,47 L6,53" id="Line-2-Copy-10" stroke="#1B74FC" stroke-linecap="round"></path>
+</svg>
