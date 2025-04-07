@@ -1,18 +1,12 @@
 # 简介
 
-[React](https://reactjs.org/) 是用于构建用户界面的流行 JavaScript 库。
-
 [Rsbuild](https://rsbuild.dev/) 是由 Rspack 驱动的高性能构建工具，它默认包含了一套精心设计的构建配置，提供开箱即用的开发体验。
 
 # 开始
 
-- 单击 **运行** 按钮启动程序。
-
-![Run](https://lf-cdn.marscode.com.cn/obj/eden-cn/ljhwz_lkpkbvsj/ljhwZthlaukjlkulzlp/project_template/prod/17230fef56b045aa48b889b2781899227bde119f/images/native_nodejs_react/run.jpeg)
-
-- 转到 Webview 查看实时页面。
-
-![Preview](https://lf-cdn.marscode.com.cn/obj/eden-cn/ljhwz_lkpkbvsj/ljhwZthlaukjlkulzlp/project_template/prod/17230fef56b045aa48b889b2781899227bde119f/images/native_nodejs_react/preview.jpeg)
+```
+pnpm run dev
+```
 
 默认情况下，MarsCode 运行 dev 脚本，你可以更改 **. vscode/launch.json** 中的配置。参考 [Visual Studio Code 的文档](https://code.visualstudio.com/docs/editor/debugging) 有关如何配置 launch.json。
 
